@@ -6,7 +6,7 @@
     📦 Installation
     ⚙️ Configuration
     🤝 Contribution
-    📜 Licence
+    📜 Licence.
 ✨ Fonctionnalités:
     ✅ Gestion des dossiers : Création, modification et suppression
     🔍 Recherche avancée : Filtres et tri dynamique
@@ -17,4 +17,4 @@
       🌐 Frontend : HTML, CSS, JavaScript, React/Vue.js
       🔙 Backend : Node.js, Express
       🛢️ Databases : MongoDB
-      🎨 UI/UX	: Tailwind CSS / Bootstrap
+      🎨 UI/UX	: Tailwind CSS / Bootstrap.
